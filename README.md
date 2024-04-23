@@ -1,4 +1,4 @@
-![png](logo.png) multiNetX v2.3 
+![png](logo.png) multiNetX v2.3 Max Fork for UAM Cuajimalpa
 =========
 
 multiNetX is a python package for the manipulation and visualization of 
@@ -20,14 +20,14 @@ This allows for:
 You have to execute the following command in your terminal:
     
 ```bash
-pip install git+https://github.com/nkoub/multinetx.git
+pip install git+https://github.com/maximilianobarajas/multinetx.git
 ```
 
 **Or**
    
 1. Clone the repository of multinetx into your system:
     ```bash
-    git clone https://github.com/nkoub/multinetx.git
+    git clone https://github.com/maximilianobarajas/multinetx.git
     ```
 2. Enter in the multinetx directory:
     ```bash
